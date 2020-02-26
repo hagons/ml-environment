@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  ml:
+    image: tensorflow/tensorflow:latest-py3-jupyter
+    ports:
+      - 8888:8888
+    # volumes:
+    #   - ./src:/tf
