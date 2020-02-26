@@ -5,8 +5,8 @@
 - tensorflow: latest
 - python: 3
 - jupyter
-- docker
-- docker-compose
+- docker (host)
+- docker-compose(host)
 
 ## 실행
 
