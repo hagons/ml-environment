@@ -6,7 +6,7 @@
 - python: 3
 - jupyter
 - docker (host)
-- docker-compose(host)
+- docker-compose (host)
 
 ## 실행
 
